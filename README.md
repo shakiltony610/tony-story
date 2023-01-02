@@ -155,7 +155,7 @@ http://www.studywithanis.com
 
 ### image sytax
 
-<!-- ![profile](./images/me.jpg) -->
+<!-- ![profile](./Desktop/notes-2/me.jpg) -->
 <img src="./images/me.JPG" width="400" title="profile image"/>
 😊
 
