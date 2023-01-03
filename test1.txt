@@ -6,3 +6,4 @@ again try to push in remote.
 now trying to pull to local.
 bsc date 2026
 adding feature2.
+logo alignment is centered.
